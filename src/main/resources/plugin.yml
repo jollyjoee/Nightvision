@@ -1,0 +1,17 @@
+name: Nightvision
+version: '1.0'
+main: com.jolly.nightvision.Nightvision
+api-version: '1.21'
+authors: [ Jolly ]
+folia-supported: true
+commands:
+  nv:
+    description: Enables Nightvision/Fullbright
+    aliases: [nightvision]
+    default: true
+  nvlist:
+    description: Lists all the players that are using /nv
+    permission: nv.list
+    default: op
+
+

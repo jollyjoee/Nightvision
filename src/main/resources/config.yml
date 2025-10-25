@@ -1,0 +1,5 @@
+messages:
+  no-permission: "<red>You have no permission to use this command!</red>"
+  nvlist-permission: "<red>You have no permission to use /nvlist!</red>"
+  nv-enabled: "<gray>Night vision <green>enabled</green>.</gray>"
+  nv-disabled: "<gray>Night vision <red>disabled</red>.</gray>"
